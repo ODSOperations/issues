@@ -12,9 +12,9 @@ Let's just get a few guidelines and obligatory no-no's out of the way first.
 ## Rules and Guidelines
 1. If you have a bug to report, make sure it hasn't already been reported or is in the "Known Bugs" section of this readme. Use the search button. 
 
-2. Refrain from profanity and swearing in your bug reports
+2. Refrain from profanity and swearing in your bug reports.
 
-3. If your issue involves crash, please indicate in your report what you were doing right before you crashed, as well as a log and steps that can replicate the crash, if applicable.
+3. If your issue involves a crash, please indicate in your report what you were doing right before you crashed, as well as a log and steps that can replicate the crash, if applicable.
 
 4. The same applies to glitches or general bugs; please include steps to replicate the issue and we will take a look at it from there.
 
